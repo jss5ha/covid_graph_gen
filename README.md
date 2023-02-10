@@ -10,3 +10,6 @@ Additionally, they depend on these linked Python libraries.
 Twarc: https://github.com/DocNow/twarc
 
 Networkx: https://github.com/networkx
+
+
+Linked here is the undergraduate thesis produced. https://www.overleaf.com/read/dcyqxgkjtdzq
